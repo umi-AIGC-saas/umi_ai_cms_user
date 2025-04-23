@@ -1,4 +1,4 @@
-# 内容管理系统
+# 内容管理系统用户模块
 
 <p align="center">
   <a href="./README_cn.md">English</a> |
@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/UMIntelligence/platform_multimodal/blob/main/assets/7ccaf2c1-9b72-41ae-9a89-5688c94b7abe.png" alt="platform multimodal">
+  <img src="https://github.com/umi-AIGC-saas/umi_ai_cms_user/blob/main/assets/v1.png" alt="platform multimodal">
 </div>
 
 **体验地址**：[https://ai.umi6.com](https://ai.umi6.com)
@@ -125,7 +125,7 @@ docker compose ps
 releases! 🌟
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/UMIntelligence/platform_multimodal/blob/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3461.gif" width="1200"/>
+<img src="https://github.com/umi-AIGC-saas/umi_ai_cms_user/blob/main/assets/v1.gif" width="1200"/>
 </div>
 
 ## 导航
